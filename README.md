@@ -8,3 +8,5 @@ Installation
 2.save the history information in the LocalStorage.
 3.Dynamically create displayHistoryButtons through a for-loop 
 4.Attch the history Element
+
+https://cui1818.github.io/Weather-Dashboard-Easy-Finder/
